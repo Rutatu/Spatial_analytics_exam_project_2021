@@ -1,6 +1,6 @@
 # Spatial_analytics_exam_project_2021
 
-This repository if for the Spatial analytics exam paper. It contains data and data preprocessing and analysis script as R Markdown file. The project´s idea and goals are briefly described below. Analysis was done using CHC-hosted RStudioCloud server (Version 1.3.1073) as well as RStudio 1.4.1106 software installed locally.
+This repository is for the Spatial analytics exam paper. It contains data and data preprocessing and analysis script as R Markdown file. The project´s idea and goals are briefly described below. Analysis was done using CHC-hosted RStudioCloud server (Version 1.3.1073) as well as RStudio 1.4.1106 software installed locally.
 
 
 
