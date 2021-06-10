@@ -21,7 +21,7 @@ This project we will only explore the suitability and relevance of quantitative 
 
 ## Data
 
-The datasets used for this project were included in this repository, except for the European GEOSTAT dataset 2018, which exceeded the size limit. The data can be downloaded using the links below.
+Some datasets used for this project or produced by it were included in this repository, except for the European GEOSTAT dataset 2018 and Copernicus Urban Atlas 2018, which exceeded the size limit. The data can be downloaded using the links below.
 
 Copernicus Urban Atlas 2018: 
 https://land.copernicus.eu/local/urban-atlas/urban-atlas-2018?tab=metadata
