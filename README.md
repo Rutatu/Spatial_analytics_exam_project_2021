@@ -21,7 +21,7 @@ This project we will only explore the suitability and relevance of quantitative 
 
 ## Data
 
-The following datasets were used:
+The datasets used for this project were included in this repository, except for the European GEOSTAT dataset 2018, which exceeded the size limit. The data can be downloaded using the links below.
 
 Copernicus Urban Atlas 2018: 
 https://land.copernicus.eu/local/urban-atlas/urban-atlas-2018?tab=metadata
@@ -30,4 +30,13 @@ https://land.copernicus.eu/user-corner/technical-library/urban_atlas_2012_2018_m
 World Happiness Report 2020: 
 https://worldhappiness.report/ed/2020/cities-and-happiness-a-global-ranking-and-analysis/
 
-European GEOSTAT dataset 2018 (1km2 population grid, polygon data)
+European GEOSTAT dataset 2018 (1km2 population grid, polygon data):
+https://ec-europa-eu.ez.statsbiblioteket.dk:12048/eurostat/web/gisco/geodata/reference-data/population-distribution-demography/geostat
+
+
+## Results
+
+In conclusion, the aim of the present project was to serve as a stepping stone in investigating whether GUAs have an effect on the evaluation of personal happiness in individuals, with more empirical data. Relying on previous research, which emphasises the benefits of urban green space on mental health, we hypothesized that the overall size of GUAs is higher in countries/cities with higher happiness index (H1), the happier the city/country, the bigger the measure of GUA size per capita (H2) and that the population is more densely distributed around GUAs (within 400m distance) in countries/cities with higher happiness index. The results of Pearson's correlation analyses, however, were unable to support H1 and H2. H3, on the other hand, was confirmed by the results.
+
+All in all, however, it cannot be concluded from the present study with certainty that there is a causational relationship between green spaces and personal well-being. It might be due to some of the limitations this project was facing, including low R values, only mildly generalizable data and simple statistical methods. Still, after applying some methodological improvements, the present study could benefit from being replicated, to further investigate the effects of GUAs on happiness. Future replications might show essential evidence that could later be implemented in order to rethink how we design cities we live in and how we engage with our surroundings - as a fairly simple thing like more greenery in front of our eyes could lead to the benefit of the whole population's mental health.
+
